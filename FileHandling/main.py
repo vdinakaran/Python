@@ -49,4 +49,17 @@ if we use the readline() method two times, then we can get the first two lines o
 readlines() method which is used for the reading lines.
 It returns the list of the lines till the end of file(EOF) is reached.
 
+fileobj.tell()-current pointer position
+fileobj.seek(10)-change the pointer position
+
+python OS module
+------------------
+rename(current,old)
+remove(filename)
+mkdir(new)
+getcwd()-current working directory
+chdir(")-Changing the current working directory
+os.rmdir(directory name)  -deleting directory
+
+
 """""
