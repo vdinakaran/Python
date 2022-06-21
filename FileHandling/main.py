@@ -41,6 +41,12 @@ wb-It opens the file to write only in binary format.
 It overwrites the file if it exists previously or creates a new one if no file exists.
 The file pointer exists at the beginning of the file.
 
-with stmt used to close the files automatically when it done
+with stmt used to close the files automatically when it done.
+
+to read the file line by line by using a function readline() method. 
+if we use the readline() method two times, then we can get the first two lines of the file
+
+readlines() method which is used for the reading lines.
+It returns the list of the lines till the end of file(EOF) is reached.
 
 """""
