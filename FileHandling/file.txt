@@ -1,1 +1,2 @@
-Python is modern day language. Python has an easy syntax and user-friendly interaction.
+Python is modern day language.
+Python has an easy syntax and user-friendly interaction.

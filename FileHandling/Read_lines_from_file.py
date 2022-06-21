@@ -1,0 +1,8 @@
+file1=open("file.txt")
+# content=file1.readline()
+# content2=file1.readline()
+# print(content)
+# print(content2)
+cont3=file1.readlines()
+print(cont3)
+file1.close()

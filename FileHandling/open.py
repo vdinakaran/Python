@@ -6,7 +6,7 @@
 #     file_object.close()
 #
 with open("file.txt") as f:
-    content=f.read()
+    content=f.read(10)
     print(content)
 # fw=open("file.txt","a")
 # fw.write(" Python has an easy syntax and user-friendly interaction.")
